@@ -1,1 +1,2 @@
 this is the second brach called Feature B
+Updating the file to reflect the changes post Github upload
